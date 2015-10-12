@@ -31,4 +31,6 @@ sudo update-alternatives --install /usr/bin/javap javap /usr/lib/jvm/java-sun/bi
 
 java -version
 ````
+- Try it yourself
 
+execute jdk_setup.sh
