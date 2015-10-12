@@ -34,3 +34,10 @@ java -version
 - Try it yourself
 
 execute jdk_setup.sh
+
+##References
+- sed usage
+
+http://www.tutorialspoint.com/sed/sed_quick_guide.htm
+
+http://www.iteye.com/topic/587673
